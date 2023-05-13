@@ -1,6 +1,6 @@
 # GPS-Tracking-System
 
-Our project consists of five main components:
+Our project consists of three main components:
 1.	TM4C123GH6PM microcontroller
 2.	Ublox NEO-6m GPS Module
 3.	Trajectory Plotter web python based app
